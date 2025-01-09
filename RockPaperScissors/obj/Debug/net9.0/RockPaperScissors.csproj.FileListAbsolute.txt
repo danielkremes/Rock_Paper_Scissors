@@ -12,3 +12,4 @@ C:\Users\programmer\Desktop\c#\Rock_Paper_Scissors\RockPaperScissors\obj\Debug\n
 C:\Users\programmer\Desktop\c#\Rock_Paper_Scissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.pdb
 C:\Users\programmer\Desktop\c#\Rock_Paper_Scissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.genruntimeconfig.cache
 C:\Users\programmer\Desktop\c#\Rock_Paper_Scissors\RockPaperScissors\obj\Debug\net9.0\ref\RockPaperScissors.dll
+C:\Users\programmer\Desktop\c#\Rock_Paper_Scissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.sourcelink.json
